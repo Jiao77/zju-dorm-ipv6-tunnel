@@ -1,0 +1,6 @@
+work/
+.env
+*.local.env
+*.key
+*.pem
+.DS_Store
